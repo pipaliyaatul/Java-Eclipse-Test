@@ -1,2 +1,2 @@
 I am adding directly from the github
-second line added from the eclipse 
+this is second line I have added from the UI itself
